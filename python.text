@@ -282,3 +282,21 @@ map(fun-name iterater)
               =>tuple
               =>set
               =>dict
+
+
+Lambda
+=> A function without name.
+=> use Lambda keyword.
+=> it takes n number og argament 
+=> bat execute  only single line of expression
+ 
+syntex:-
+      lambda argumants :expression
+
+Ex:-
+add two no.
+x=......
+y=......
+res=lambda p,q: p+q
+print(res(x,y))
+
